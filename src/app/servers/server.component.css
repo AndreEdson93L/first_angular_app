@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    justify-content: center;
+    text-align: center;
+}
+
+h1, p {
+    margin: 1rem;
+    background-color: darkblue;
+    color:whitesmoke;
+}
+
